@@ -5,7 +5,7 @@ Updated 2026-09-13. The user approved RapidAPI/Apify terms, production gateway d
 | Surface | Current state | Remaining activation |
 | --- | --- | --- |
 | Shared Vi IQ gateway | [HTTPS metadata and real authenticated BTC/ETH/SOL responses verified](https://api.vultax.com/marketplace/v1/metadata) | Producer model version remains unavailable; score deltas remain null |
-| GitHub distribution repository | [Public source verified](https://github.com/ChristopherZYX/vultax-iq-distribution) | Production remains a separate activation |
+| GitHub distribution repository | [Public source verified](https://github.com/Vultax/vultax-iq-distribution) | Production remains a separate activation |
 | RapidAPI | Signed in and terms accepted; new-API form prepared | API creation/import, proxy secret, quotas, pricing, payouts and marketplace verification |
 | Apify | [Private Actor created from GitHub](https://console.apify.com/actors/1iEoeC66ymTd9Z6D0#/source); updated terms accepted | Hosted build/run, gateway publisher secret, seller eligibility and public Store publication |
 | Postman | [Public workspace and six-request collection published and read back](https://www.postman.com/galactic-meadow-109643/vultax-developer-tools/collection/hhs5p3j/vultax-public-research-and-vi-iq-developer-preview) | Existing Postman IQ requests still use the older local preview URL; deployed definitions are ready in GitHub |

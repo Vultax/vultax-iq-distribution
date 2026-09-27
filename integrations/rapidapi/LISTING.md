@@ -26,6 +26,6 @@ The initial three-pair allowlist applies to all plans. ULTRA's main initial diff
 
 RapidAPI's documented marketplace fee is 25% before additional payout fees. Verify PayPal payout setup and seller eligibility before enabling subscriptions. At listed prices, gross provider receipts before payout/hosting costs are $36.75 and $111.75 per monthly subscriber.
 
-Resource links: [Methodology](https://vultax.com/methodology?utm_source=rapidapi&utm_medium=marketplace&utm_campaign=vi_iq_launch), [Code and integrations](https://github.com/ChristopherZYX/vultax-iq-distribution).
+Resource links: [Methodology](https://vultax.com/methodology?utm_source=rapidapi&utm_medium=marketplace&utm_campaign=vi_iq_launch), [Code and integrations](https://github.com/Vultax/vultax-iq-distribution).
 
 [Billing configuration](https://docs.rapidapi.com/docs/hub-listing-monetize-tab) · [Payout terms](https://docs.rapidapi.com/docs/payouts-and-finance) · [Proxy authentication](https://docs.rapidapi.com/v2.0/docs/additional-request-headers)

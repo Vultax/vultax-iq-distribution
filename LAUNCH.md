@@ -14,6 +14,6 @@ The shared [Vi IQ API](https://api.vultax.com/marketplace/v1/metadata) is deploy
 | Hugging Face | [Account login](https://huggingface.co/login) | Twelve explicitly synthetic evidence cases and dataset card prepared | Sign in, then publish the dataset |
 | x402 / Bazaar | [Coinbase developer portal](https://portal.cdp.coinbase.com/) | Payment adapter prepared | Developer access, owned receiving wallet, facilitator credentials, deployment and owner-performed payment verification |
 
-[All current source packages](https://github.com/ChristopherZYX/vultax-iq-distribution) · [Download current source ZIP](https://github.com/ChristopherZYX/vultax-iq-distribution/archive/refs/heads/main.zip)
+[All current source packages](https://github.com/Vultax/vultax-iq-distribution) · [Download current source ZIP](https://github.com/Vultax/vultax-iq-distribution/archive/refs/heads/main.zip)
 
 An imported source package or a private Actor is not a public marketplace listing. Store approval, seller eligibility and successful payment verification are separate steps. No marketplace earnings or ranking/backlink impact is claimed.

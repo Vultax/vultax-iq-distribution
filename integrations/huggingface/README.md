@@ -35,6 +35,6 @@ Load `evidence-cases.jsonl` as JSON Lines. Ask the system under test to describe
 
 Created for Vultax's API integration work on 2026-09-13. No exchange feed, private account, wallet or personal information is included. The authored fixture dataset is offered under CC BY 4.0, with attribution to Vultax. This license applies to these synthetic fixtures, not the commercial IQ feed or third-party data.
 
-[Vultax methodology](https://vultax.com/methodology?utm_source=huggingface&utm_medium=dataset&utm_campaign=vi_iq_launch) · [Gateway and integrations](https://github.com/ChristopherZYX/vultax-iq-distribution)
+[Vultax methodology](https://vultax.com/methodology?utm_source=huggingface&utm_medium=dataset&utm_campaign=vi_iq_launch) · [Gateway and integrations](https://github.com/Vultax/vultax-iq-distribution)
 
 Actual historical samples will only be released from retained, versioned observations after their redistribution terms are confirmed. This repository does not claim that such a sample already exists.
