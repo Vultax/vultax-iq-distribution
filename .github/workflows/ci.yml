@@ -27,4 +27,11 @@ jobs:
         run: npm ci
       - name: Test
         run: npm test
-
+      - name: Install integration dependencies
+        run: |
+          npm ci --prefix integrations/x402
+          npm ci --prefix integrations/apify
+      - name: Check integration entry points
+        run: |
+          node --check integrations/x402/server.mjs
+          node --check integrations/apify/src/main.mjs
